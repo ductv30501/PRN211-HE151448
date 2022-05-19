@@ -12,6 +12,7 @@ namespace DemoRecord
             car2.display();
             carrecord car3 = new carrecord();
             car3.display();
+            Console.ReadLine();
         }
     }
 }
